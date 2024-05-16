@@ -1,5 +1,5 @@
 # Final-Project-for-Using-Python-for-Research-by-Harvard
-This repository contains my final project for the "Using Python for Research" course offered by Harvard University. The course provided a comprehensive introduction to using Python for scientific research, covering topics such as data analysis, statistical methods, and visualization techniques.
+This repository contains my final project for the "Using Python for Research" course offered by Harvard University [https://www.edx.org/learn/python/harvard-university-using-python-for-research]. The course provided a comprehensive introduction to using Python for scientific research, covering topics such as data analysis, statistical methods, and visualization techniques.
 
 The project focuses on predicting the type of physical activity (e.g., walking, climbing stairs) using tri-axial smartphone accelerometer data. Different physical activities generate distinct patterns of acceleration, which can be analyzed to classify the activity accurately.
 
